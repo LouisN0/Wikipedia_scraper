@@ -7,7 +7,7 @@ __disclamer__
 
 - this project was made in a virtual environement, you must need to use the requirement.txt file to be sure that the program will not have issue
 
-if there is some issue with this project please contact [lounol.co@gmail.co]
+if there is some issue with this project please contact __lounol.co@gmail.co__
 
 ---
-# Wikipedia_scraper
+
